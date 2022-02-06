@@ -8,4 +8,4 @@
 - 📫 You can contact me at an email : nsthien2109@gmail.com
 - Thank you ! Good luck 💕💕❤
 - This is my CV :
-[INTERN FLUTTER _ NGUYEN SI THIEN.pdf](https://github.com/nsthien2109/nsthien2109/files/8009492/INTERN.FLUTTER._.NGUYEN.SI.THIEN.pdf)
+![INTERN FLUTTER](https://user-images.githubusercontent.com/70851146/152669221-668b692e-665e-41b9-8c09-ff58e8404c93.png)
