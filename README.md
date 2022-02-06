@@ -7,7 +7,5 @@
 - 🤞 My English not good but I learning it 
 - 📫 You can contact me at an email : nsthien2109@gmail.com
 - Thank you ! Good luck 💕💕❤
-<!---
-nsthien2109/nsthien2109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- This is my CV :
+[INTERN FLUTTER _ NGUYEN SI THIEN.pdf](https://github.com/nsthien2109/nsthien2109/files/8009492/INTERN.FLUTTER._.NGUYEN.SI.THIEN.pdf)
