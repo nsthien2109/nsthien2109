@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Si Thien
-- 👨‍ I'm is 3 - year student at VietNam - Korea University of Information and Communication Technology
+- 👨‍ I'm is junior at VietNam - Korea University of Information and Communication Technology
 - 👀 My hobby is listen to music , play video game and go for a walk in free time
-- 🌱 I’m currently learning HTML/CSS/JS - Flutter / Laravel Backend
+- 🌱 I’m currently learning ReactJs - Flutter And A bit NodeJS
 - 😜 What your feel when saw my code 
 - 🤞 My English not good but I learning it 
 - 📫 You can contact me at an email : nsthien2109@gmail.com
