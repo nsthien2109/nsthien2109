@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nguyen Si Thien
-- 🌱 ReactJs - Flutter - NodeJS 
+- 🌱 ReactJs - VueJs - Flutter - NodeJS 
 - 📫 You can contact me at an email : thiendev2109@gmail.com
 - Thank you ! Good luck 💕💕❤
